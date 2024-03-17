@@ -1,3 +1,9 @@
+<?php
+
+
+
+?>
+
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -7,11 +13,14 @@
 </head>
 <body>
 
+    <!-- GET -->
+    <h1>GETはURLが変わる</h1>
+
+    <!-- POST -->
+    <h1>POSTはURLが変わらない</h1>
+
     <div>
-        <a href="element.php">1.GETとPOST</a>
-    </div>
-    <div>
-        <a href="item.php">2.GETとPOST</a>
+        <a href="item.php">戻る</a>
     </div>
 
 </body>
